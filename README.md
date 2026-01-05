@@ -1,6 +1,8 @@
-# library_manage
+# BookNest
 
 A new Flutter project.
+
+### Developed by Team BookNest
 
 ## Getting Started
 
